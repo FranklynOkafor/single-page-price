@@ -86,7 +86,7 @@ ul{
         margin-left: 25%;
     }
     .top_banner{
-        width: 60%;
+        width: 50%;
     }
     .main_header{
         width: 80%;
@@ -94,7 +94,7 @@ ul{
     .bottom_banner{
         display: flex;
         flex-direction: column;
-        width: 60%;
+        width: 50%;
     }
     .left_side{
         width: 100%;
